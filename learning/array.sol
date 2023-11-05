@@ -2,7 +2,7 @@
 
  contract Test{
 
-    public arry[];
+    int arry;
 
 constructor ()
 {
